@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-mobile",
+    "description": "React Native mobile development skills and agents",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["react-native"],
+    "contents": {
+        "skills": ["react-native-mobile"],
+        "agents": ["mobile-dev"],
+        "hooks": []
+    },
+    "tags": ["mobile", "react-native", "ios", "android", "watermelondb"]
+}
